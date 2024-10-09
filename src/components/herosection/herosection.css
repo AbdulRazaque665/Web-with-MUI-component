@@ -1,0 +1,10 @@
+.bg-colors{
+    background: #F5F7FA  !important;
+    height: 140vh !important;
+}
+.heading{
+    font-size: 10svh;
+}
+.text-small{
+    text-transform: capitalize !important;
+}
